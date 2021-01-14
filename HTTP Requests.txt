@@ -1,0 +1,13 @@
+1. 6
+2. 3 Requêtes et 3 Réponses. Si la source vient du réseau local: c'est un requête. Si la destination est le réseau local: c'est une réponse.
+3. 59	6.304331	192.168.1.47	87.98.154.146	HTTP	449	GET /html-css-et-link.html HTTP/1.1
+	C'est une requête.
+4. La méthode "GET" permet de faire une simple requête où le serveur renvoie une réponse appropriée à la requête, si il peut.
+5. test-http.nairod.eu
+6. Une page html, 2 images.
+7. 60	6.323416	87.98.154.146	192.168.1.47	HTTP	1269	HTTP/1.1 200 OK  (text/html)
+8. Le code est 200 il signifie OK, que ça a été trouvé et envoyé.
+9. Apache
+10. Des données publiques: la réponse HTTP la taille du fichier envoyé, les headers.
+11. HTML, PNG, JPG
+12. 200
