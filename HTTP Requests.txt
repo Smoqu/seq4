@@ -11,3 +11,9 @@
 10. Des données publiques: la réponse HTTP la taille du fichier envoyé, les headers.
 11. HTML, PNG, JPG
 12. 200
+13. https://github.com/Smoqu/seq4/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-01-14%20163938.png
+14. En ayant le filtre activé sur le port 80, rien ne se passe en étant sur la page de l'énoncé.
+15. HTTP et HTTPS
+17. Elles contiennent un "Encrypted Application Data" clé.
+18. 80 est pour HTTP et 443 pour HTTPS
+19. HTTPS est crypté alors toutes les données disponibles avec HTTP ne sont plus visible, ce qui est évidemment plus sécurisé.
